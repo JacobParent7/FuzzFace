@@ -38,10 +38,10 @@ This is a project I made and documented using the electrosmash website. For a mo
   - To get a sense of input impedance, we observe the inverse effect of transconductance, also called resistance
   - The impedance is represented by this emitter resistance multiplied by Beta, more life hfe in your datasheet
   - BJTs do not really have a resistance like a linear part (resistor, capacitor, inductor), but it helps to think of their input impedance this way
-  ![image](https://github.com/user-attachments/assets/268068b2-e6bd-476e-987c-7f64c7e46e20)
+   ![image](https://github.com/user-attachments/assets/268068b2-e6bd-476e-987c-7f64c7e46e20)
   - In this calculation, ignore the feedback (although this does have a significant effects bringing 8k to around 5k)
   - This is EXTREMELY low for a guitar pedal which should typically have 1M input impedance at the least
-  ![image](https://github.com/user-attachments/assets/bf0e167d-76f8-4395-b858-7390cda14771)
+   ![image](https://github.com/user-attachments/assets/bf0e167d-76f8-4395-b858-7390cda14771)
   - This input impedance will represent R2 in the voltage divider equation with whatever input (1k from pedal, 5k from pickup) it receives
   - This causes significant signal attenuation
 
