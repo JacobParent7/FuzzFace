@@ -10,7 +10,7 @@ This is a project I made and documented using the electrosmash website. For a mo
   - Audibly, this gives the distortion a warmer and subjectively pleasent tone
 
 ### Why are germanium transistors so hard to find?
-  - No loneger manufactured in bulk
+  - No longer manufactured in bulk
   - high leakage current
   - inconsistent gain value
 
