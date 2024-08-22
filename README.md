@@ -11,8 +11,8 @@ This is a project I made and documented using the electrosmash website. For a mo
 
 ### Why are germanium transistors so hard to find?
   - No longer manufactured in bulk
-  - high leakage current
-  - inconsistent gain value
+  - High leakage current
+  - Inconsistent gain value
 
 ## Circuit Overview
  - 2 stage amplifier
