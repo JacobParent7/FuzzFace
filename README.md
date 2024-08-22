@@ -18,7 +18,7 @@
  - Feeds output emitter to input base to implement negative feedack for stability
  
 ### Feedback
-  - ![image](https://github.com/user-attachments/assets/b606f459-f566-4f92-a2d4-28c41c535434)
+   ![image](https://github.com/user-attachments/assets/b606f459-f566-4f92-a2d4-28c41c535434)
   - Second transistor is emitter degenerated. This is a form of local negative feedback. 
   - Emitter voltage is tapped and fed to base of first transistor, reducing the base voltage of transistor 1.
   - The effect of the local feedback and feedback network are controlled by a single potentiometer labelled "fuzz"
