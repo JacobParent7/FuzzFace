@@ -70,7 +70,7 @@ This is a project I made and documented using the electrosmash website. For a mo
 
 #### Output Impedance
   - Rvol / 470, giving a max of ~500 Ohm output impedance
-  - THis changes when considering the feedback, giving an actual value of 15k Ohm
+  - This changes when considering the feedback, giving an actual value of 15k Ohm
   - Typically, this is considered too high
 
 #### Output Filter
@@ -90,7 +90,7 @@ This is a project I made and documented using the electrosmash website. For a mo
 ### Asymetrical Clipping
   - Most pedals bias at the halfway point (+-4.5V depending on NPN or PNP) of their voltage rails to get max range
   - FF biases at -1.6V
-  - Positive voltage swin is much larger than negative voltage swing
+  - Positive voltage swing is much larger than negative voltage swing
 
 ### Frequency Response
   - The pedal has 2 high pass filters that shape the response that were mentioned above
