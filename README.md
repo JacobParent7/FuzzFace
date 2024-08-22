@@ -19,17 +19,23 @@ This is a project I made and documented using the electrosmash website. For a mo
  - Feeds output emitter to input base to implement negative feedack for stability
  
 ### Feedback
+
    ![image](https://github.com/user-attachments/assets/b606f459-f566-4f92-a2d4-28c41c535434)
+
   - Second transistor is emitter degenerated. This is a form of local negative feedback. 
   - Emitter voltage is tapped and fed to base of first transistor, reducing the base voltage of transistor 1.
   - The effect of the local feedback and feedback network are controlled by a single potentiometer labelled "fuzz"
 
 ### Circuit Bias
+
   ![image](https://github.com/user-attachments/assets/c5c1313c-ff0c-41a1-90c7-1636e652557d)
+  
   - This bias is simulated at fuzz pot midpoint 500 Ohm
 
 ### Input Stage
-  ![image](https://github.com/user-attachments/assets/d455799c-f736-41f4-b0e1-5e6ecb20e7bf)
+
+   ![image](https://github.com/user-attachments/assets/d455799c-f736-41f4-b0e1-5e6ecb20e7bf)
+
   - C1 is a AC coupling capacitor, responsible for blocking any DC signal at the input.
   - 33k resistor sets gain, bias points, and max collector current according to PNP BJT Ebers Moll Equation
 
@@ -88,6 +94,7 @@ This is a project I made and documented using the electrosmash website. For a mo
 
 ### Frequency Response
   - The pedal has 2 high pass filters that shape the response that were mentioned above
+    
     ![image](https://github.com/user-attachments/assets/6843abd3-28cf-4513-981b-7fe54237cbff)
 
 
