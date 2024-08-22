@@ -48,6 +48,7 @@ This is a project I made and documented using the electrosmash website. For a mo
 
 #### Input Voltage Gain 
   - Common emitter gain is shown below
+
   ![image](https://github.com/user-attachments/assets/34e725c4-2b71-4b19-b588-6d3d5c1e7ed0)
   ![image](https://github.com/user-attachments/assets/21d882cf-9e28-48d0-a87b-5072f318f92d)
   - Ie is DC emitter current
