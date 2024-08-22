@@ -14,7 +14,7 @@ This is a project I made and documented using the electrosmash website. For a mo
   - High leakage current
   - Inconsistent gain value
 
-## Circuit Overview
+## Circuit Analysis
  - 2 stage amplifier
  - Feeds output emitter to input base to implement negative feedack for stability
  
