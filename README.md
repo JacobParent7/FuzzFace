@@ -56,6 +56,7 @@ This is a project I made and documented using the electrosmash website. For a mo
   - Overall, this should give 49 dB of gain, but feedback cuts this to 18 dB realistically
 #### Input Filter
   - The DC blocking cap and input impedance of the transistor form a high pass filter
+    
     ![image](https://github.com/user-attachments/assets/b00d0149-7a75-4d87-bbb9-ac87b36d919b)
   - This has a cutoff of 14 Hz
 
@@ -65,14 +66,15 @@ This is a project I made and documented using the electrosmash website. For a mo
   - Rvol / 470, giving a max of ~500 Ohm output impedance
   - THis changes when considering the feedback, giving an actual value of 15k Ohm
   - Typically, this is considered too high
-  - 
+
 #### Output Filter
   - Output cap blocks DC but also creates a high pass with Rvol
   - Highest cutoff is 31Hz
 
 #### Total Voltage Gain
   - Second stage is more stable due to emitter degeneration
-  ![image](https://github.com/user-attachments/assets/575c86f8-300e-41e8-bfbd-13f45a2fd156)
+
+   ![image](https://github.com/user-attachments/assets/575c86f8-300e-41e8-bfbd-13f45a2fd156)
   - With first stage in mind, the second stage only has around 1dB of gain to add.
   - However, the output is taken at the divider, making the real gain -5.5 dB
   - This is similar to the input signal amplitude. By design, we don't want to overdrive the level of the following FX modules
