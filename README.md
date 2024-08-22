@@ -1,4 +1,5 @@
 # Fuzz Face Guitar Pedal
+This is a project I made and documented using the electrosmash website. For a more in depth explanation of the circuit, visit https://www.electrosmash.com/fuzz-face.
 
 ## The Fuzz Face Circuit
 ![image](https://github.com/user-attachments/assets/d238433e-f945-4119-aca1-6a3b554279a7)
